@@ -1,29 +1,6 @@
 <div class="Box-sc-g0xbh4-0 QkQOb js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
-  <animated-image data-catalyst="" style="width: 100%;"><a target="_blank" rel="noopener noreferrer" href="/cvat-ai/cvat/blob/develop/site/content/en/images/cvat-readme-gif.gif" data-target="animated-image.originalLink"><img src="/cvat-ai/cvat/raw/develop/site/content/en/images/cvat-readme-gif.gif" alt="CVAT 平台" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" _mstalt="193037" _msthash="426"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="" _msthidden="4">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/cvat-ai/cvat/blob/develop/site/content/en/images/cvat-readme-gif.gif" target="_blank" _msthidden="1">
-          
-        <span data-target="animated-image.imageContainer" _msthidden="1">
-            <img data-target="animated-image.replacedImage" alt="CVAT Platform" class="AnimatedImagePlayer-animatedImage" src="https://github.com/cvat-ai/cvat/raw/develop/site/content/en/images/cvat-readme-gif.gif" _msthidden="A" _mstalt="193037" _msthash="427" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="807" height="333"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play CVAT Platform" hidden="" _msthidden="A" _mstaria-label="297856" _msthash="428"></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="" _msthidden="2">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play CVAT Platform" _msthidden="A" _mstaria-label="297856" _msthash="429">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open CVAT Platform in new window" class="AnimatedImagePlayer-button" href="https://github.com/cvat-ai/cvat/blob/develop/site/content/en/images/cvat-readme-gif.gif" target="_blank" _msthidden="A" _mstaria-label="737919" _msthash="430">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image>
+  <animated-image data-catalyst="" style="width: 100%;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/cvat-ai/cvat/blob/develop/site/content/en/images/cvat-readme-gif.gif" data-target="animated-image.originalLink"><img src="https://github.com/cvat-ai/cvat/raw/develop/site/content/en/images/cvat-readme-gif.gif" alt="CVAT 平台" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" _mstalt="193037" _msthash="426"></a>
+    
 </p>
 <p align="center" dir="auto">
   <a href="https://app.cvat.ai/" rel="nofollow">
